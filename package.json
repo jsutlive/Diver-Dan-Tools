@@ -1,6 +1,6 @@
 {
 	"name": "diverdan.tools",
 	"version": "0.0.1-preview.1",
-	"displayName": "Diver Dan Tools"
+	"displayName": "Diver Dan Tools",
 	"description": "Setup tools originally made for building the game Diver Dan"
 }
